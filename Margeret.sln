@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monarchs", "Monarchs\Monarchs.csproj", "{0FB253AC-7E76-4803-BE76-25A863B4DDAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonarchsWithoutFiles", "MonarchsWithoutFiles\MonarchsWithoutFiles.csproj", "{AB50534C-BB5E-49E7-9FB6-D1E9026D4B32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB253AC-7E76-4803-BE76-25A863B4DDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB253AC-7E76-4803-BE76-25A863B4DDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB253AC-7E76-4803-BE76-25A863B4DDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB253AC-7E76-4803-BE76-25A863B4DDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB50534C-BB5E-49E7-9FB6-D1E9026D4B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB50534C-BB5E-49E7-9FB6-D1E9026D4B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB50534C-BB5E-49E7-9FB6-D1E9026D4B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB50534C-BB5E-49E7-9FB6-D1E9026D4B32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
